@@ -1,4 +1,5 @@
 # Riedon_BLE_UARTrev1.py
+# hardware: nRF52840 Feather Express, ADS1115 break out board, SSA-100 current sensor
 # Basic example for using the BLE Connect UART
 # To use, start this program, and start the Adafruit Bluefruit LE Connect app.
 # Connect, and then select UART
